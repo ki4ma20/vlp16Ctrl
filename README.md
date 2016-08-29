@@ -1,2 +1,2 @@
 # vlp16Ctrl
-simple C implementation to capture data by Velodyne VLP-16
+simple implementation to capture data by Velodyne VLP-16.
